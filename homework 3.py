@@ -1,0 +1,21 @@
+print("***************************************************\n               WEBPAGE BUILDER V1.0               \n***************************************************")
+
+print("This application helps you build a basic web page \nby asking you a series of questions. Just answer \neach question, and Ill populate your new web page \nwith your responses.")
+
+name = input("What is your name? ")
+age = int(input("How old are you? "))
+location = input("Where do you live? ") 
+grow = input("When you grow up, you want to be..? ") 
+number = input("What are your two favorite integers? ")
+months = age*12
+print("Here is the code for your web page:")
+print("\n<html>")
+print("<head><title>", name,"'s Web Page</title></head> ")
+print("<body>")
+print("<h1>Welcome to", name,"'s Web Page</h1>")
+print("<p>I am", age, "years (or", months,  "months!) old and live in", location, ".</p>")
+print("<p>When I grow up, I want to be ", grow, "</p>")
+print("<p>My two favorite integers are ", number ,"Their quotient is 5.142.</p>")
+print("<p>Thank you for visiting my page!</p>")
+print("</body>")
+print("</html>")
