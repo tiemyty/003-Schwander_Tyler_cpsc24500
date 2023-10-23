@@ -1,0 +1,15 @@
+Conference: Eastern	
+Chicago Sky	26	10
+Connecticut Sun	25	11
+Washington Mystics	22	14
+New York Liberty	16	20
+Atlanta Dream	14	22
+Indiana Fever	5	31
+
+Conference: Western	
+Las Vegas Aces	26	10
+Seattle Storm	22	14
+Dallas Wings	18	18
+Phoenix Mercury	15	21
+Minnesota Lynx	14	22
+Los Angeles Sparks	13	23
